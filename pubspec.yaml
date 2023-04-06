@@ -59,6 +59,23 @@ flutter:
     - assets/images/welcome.png
     - assets/images/delivery.png
     - assets/images/best_grocery.png
+    - assets/images/shopping-cart.png
+    - assets/images/banner.png
+    - assets/images/all.png
+    - assets/images/fruits.png
+    - assets/images/vegetables.png
+    - assets/images/fish.png
+    - assets/images/fruits_and_vegetables.png
+    - assets/images/grocery_and_staples.png
+    - assets/images/household_needs.png
+    - assets/images/mans_and_womens_wear.png
+    - assets/images/foot_ware.png
+    - assets/images/broccoli_flower.png
+    - assets/images/pomegranate.png
+    - assets/images/green_apple.png
+    - assets/images/green_capsicum.png
+    - assets/images/red_capsicum.png
+    - assets/images/capsicum.png
 
 
   # The following line ensures that the Material Icons font is
